@@ -1,0 +1,3 @@
+/home/eowin/VSCodium/OpenGL/Cubo3D/build/CMakeFiles/OpenGL_Cubo3D.dir
+/home/eowin/VSCodium/OpenGL/Cubo3D/build/CMakeFiles/edit_cache.dir
+/home/eowin/VSCodium/OpenGL/Cubo3D/build/CMakeFiles/rebuild_cache.dir
