@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/eowin/VSCodium/OpenGL/Cubo3D/build",
+  "command": "/usr/bin/c++  -I/home/eowin/VSCodium/OpenGL/Cubo3D/external/glad/include -std=gnu++17 -o CMakeFiles/OpenGL_Cubo3D.dir/src/main.cpp.o -c /home/eowin/VSCodium/OpenGL/Cubo3D/src/main.cpp",
+  "file": "/home/eowin/VSCodium/OpenGL/Cubo3D/src/main.cpp"
+},
+{
+  "directory": "/home/eowin/VSCodium/OpenGL/Cubo3D/build",
+  "command": "/usr/bin/cc  -I/home/eowin/VSCodium/OpenGL/Cubo3D/external/glad/include  -o CMakeFiles/OpenGL_Cubo3D.dir/external/glad/src/glad.c.o -c /home/eowin/VSCodium/OpenGL/Cubo3D/external/glad/src/glad.c",
+  "file": "/home/eowin/VSCodium/OpenGL/Cubo3D/external/glad/src/glad.c"
+}
+]
